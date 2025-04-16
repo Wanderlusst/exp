@@ -1,4 +1,4 @@
-import SlotsFinder from "../../components/SlotsFinder";
+import SlotsFinder from "../components/SlotsFinder";
 
 export default function SlotsPage() {
   return (
